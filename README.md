@@ -9,6 +9,11 @@ A high-performance, full-stack e-commerce application built with Next.js, Hono, 
 - **Micro-animations**: Smooth transitions, hover effects, and float animations for a premium feel.
 - **Responsive Layout**: Optimized for all devices from mobile to desktop.
 
+### 💳 Secure Payments
+- **Stripe Integration**: Fully integrated payment flow using Stripe for secure transactions.
+- **Automatic Cart Clearing**: Backend logic to clear the shopping cart immediately upon successful payment confirmation.
+- **Webhook Handling**: Robust server-side processing of Stripe events for order status updates.
+
 ### 🤝 Social Proof & Trust
 - **Customer Reviews**: Dynamic review system with star ratings and detailed feedback.
 - **Product Q&A**: Interactive accordion-based Q&A section for community engagement.
